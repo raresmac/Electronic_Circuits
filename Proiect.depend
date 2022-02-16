@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1640878116 source:c:\users\rares\google drive\programare\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cmath>
+	<string>
+
+1642012656 source:d:\programe\google drive\programare\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cmath>
+	<string>
+	<cstdlib>
+
